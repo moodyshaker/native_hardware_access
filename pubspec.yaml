@@ -19,6 +19,7 @@ dependencies:
   flutter_spinkit:
   path:
   fluttertoast:
+  wakelock:
   path_provider:
 
 dev_dependencies:
